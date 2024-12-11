@@ -15,8 +15,7 @@ Logo centralizada.
 Botões para "Entrar" ou "Abrir conta".
 Termos de uso e aviso de privacidade ao final.
 Exemplo de Código (HTML):
-html
-Copiar código
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -42,12 +41,12 @@ Copiar código
     </footer>
 </body>
 </html>
+
 Tela 02: Vantagens
 A segunda tela apresenta as vantagens de usar o Finance Experian, com botões para destacar as principais funcionalidades da plataforma, como assessoria digital e controle de finanças. O usuário pode ser levado para a página de cadastro diretamente.
 
 Exemplo de Código (HTML):
-html
-Copiar código
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -72,6 +71,7 @@ Copiar código
     </div>
 </body>
 </html>
+
 Tela 03: Cadastro de Cliente
 Na tela de cadastro, os usuários fornecem seus dados (nome, e-mail e senha). Após o cadastro, o usuário é redirecionado para a página de login.
 
@@ -79,8 +79,7 @@ Função de Redirecionamento:
 O cadastro redireciona automaticamente para a página de login após o envio do formulário.
 
 Exemplo de Código (HTML):
-html
-Copiar código
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -113,12 +112,12 @@ Copiar código
     </div>
 </body>
 </html>
+
 Tela 04: Login
 A tela de login permite que o usuário insira seu e-mail e senha para acessar sua conta. A página também oferece opções de login social (Google, Facebook) e um link para recuperação de senha.
 
 Exemplo de Código (HTML):
-html
-Copiar código
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -151,14 +150,15 @@ Copiar código
     </div>
 </body>
 </html>
+
 Como Rodar o Projeto
 Requisitos
 Um servidor web local (como o XAMPP, WAMP, VS Code Live Server, etc).
 Passos para Execução
-Clone o repositório:
-bash
-Copiar código
+1. Clone o repositório:
+
 git clone https://github.com/seuusuario/finance-experian.git
-Abra o diretório do projeto no seu editor de código (ex: VS Code).
-Execute o projeto localmente no seu servidor web.
-Acesse o site através do seu navegador.
+
+2. Abra o diretório do projeto no seu editor de código (ex: VS Code).
+3. Execute o projeto localmente no seu servidor web.
+4. Acesse o site através do seu navegador.
